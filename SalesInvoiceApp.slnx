@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="salesinvoiceapp.client/salesinvoiceapp.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="SalesInvoiceApp.Server/SalesInvoiceApp.Server.csproj" />
+</Solution>
